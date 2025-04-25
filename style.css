@@ -1,0 +1,10 @@
+body {
+    max-width: 1440px;
+    background-color: hsl(30, 54%, 90%);
+}
+
+main {
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+}
